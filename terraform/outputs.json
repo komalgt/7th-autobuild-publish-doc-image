@@ -2,9 +2,6 @@
   "bucket_name": {
     "sensitive": false,
     "type": "string",
-    "value": "rebuild-publish-doc-image-buc-9164"
+    "value": "rebuild-publish-doc-image-buc-9164-edit"
   }
 }
-
-
-#test
